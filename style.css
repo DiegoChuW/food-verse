@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to bottom right,#00FFA3, #86C69C , #31D317 );
+
+
+}
+
+.form-check-input {
+    transform: scale(2);
+    margin: 15px;
+    
+
+}
+.form-check {
+    margin-left: 10vh;
+
+}
