@@ -14,3 +14,30 @@ body {
     margin-left: 10vh;
 
 }
+
+.btn {
+    display: block;
+    width: 50%;
+    border: none;
+    background-color: #04AA6D;
+    color: black;
+    font-size: 22px;
+    cursor: pointer;
+    margin:auto;
+    padding: 14px 28px;
+    font-weight: bold;
+}
+
+
+.btn:hover {
+    display: block;
+    width: 50%;
+    border: none;
+    background-color: #69e6b8;
+    color: black;
+    font-size: 22px;
+    cursor: pointer;
+    margin:auto;
+    padding: 14px 28px;
+    font-weight: bold;
+}
